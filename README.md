@@ -12,7 +12,6 @@ This repository demonstrates fine-tuning **TinyLlama-1.1B-Chat** using **LoRA** 
 - [Pipeline](#pipeline)  
 - [Results](#results)  
 - [Notes](#notes)  
-- [License](#license)  
 
 ---
 
